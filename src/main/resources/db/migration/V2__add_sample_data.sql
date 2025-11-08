@@ -5,7 +5,9 @@
 -- ==========================================
 
 -- BCrypt for password "password"
--- $2a$10$7EqJtq98hPqEX7fNZaFWoO5j8S8Q9Z3rrodpAtxEvsC0BpFkacwZa
+-- $2a$10$7EqJtq98hPqEX7fNZaFWoO5j8S8Q9Z3
+--
+-- rrodpAtxEvsC0BpFkacwZa
 
 -- =====================
 -- USERS
